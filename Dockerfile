@@ -18,4 +18,4 @@ ENV DISPLAY=:99
 RUN pip install --upgrade pip
 
 # install selenium
-RUN pip install seleniumbase:4.12.8
+RUN pip install seleniumbase

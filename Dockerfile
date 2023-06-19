@@ -19,3 +19,6 @@ RUN pip install --upgrade pip
 
 # install selenium
 RUN pip install seleniumbase
+
+# install newman
+pip install newman
